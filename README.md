@@ -1,13 +1,13 @@
 # Project nhỏ về Image Super Resolution
 
-##Datasets
+## Datasets
 
 Bộ datasets sử dụng: DIV2K
 
 Link: https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
-##Model
+## Model
 
 Các model đã sử dụng: SRCNN, SRResnet, SRAutoencoder
 
-##Tham khảo
+## Tham khảo
