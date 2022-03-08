@@ -2,9 +2,7 @@
 
 ## Datasets
 
-Bộ datasets sử dụng: DIV2K
-
-Link: https://data.vision.ee.ethz.ch/cvl/DIV2K/
+Bộ datasets sử dụng: [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
 
 ## Model
 
