@@ -1,4 +1,4 @@
-# Project nhỏ về Image Super Resolution
+# Project Image Super Resolution
 
 ## Datasets
 
